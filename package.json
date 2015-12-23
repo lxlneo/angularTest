@@ -1,0 +1,21 @@
+{
+  "name": "weixin-sportgoing",
+  "version": "0.0.1",
+  "description": "touch.sportgoing.com",
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/lxlneo/weixin-fis3.git"
+  },
+  "keywords": [
+    "angular",
+    "fis3",
+    "sportgoing"
+  ],
+  "dependencies": {},
+  "author": "lixuelong",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0"
+  }
+}

@@ -1,0 +1,7 @@
+.app-box{
+  width: auto;
+  padding: 10px 30px;
+  border: 1px solid rgb(133, 222, 147);
+  margin: 10px auto;
+  min-height: 100px;
+}

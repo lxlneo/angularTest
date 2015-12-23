@@ -1,0 +1,45 @@
+{
+  "name": "sportgoMALL",
+  "version": "0.0.1",
+  "authors": [
+    "lixuelong <lxlneo.g@gmail.com>"
+  ],
+  "keywords": [
+    "sportgoing",
+    "fis",
+    "angularjs"
+  ],
+  "license": "BSD",
+  "homepage": "https://git.oschina.net/lxlneo/sportsGoMallFE.git",
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/lxlneo/sportsGoMallFE.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "angular": "~1.4.0",
+    "angular-ui-router": "ui-router#~0.2.15",
+    "angular-animate": "~1.4.0",
+    "angular-aria": "~1.4.0",
+    "font-awesome": "~4.4.0",
+    "angular-bootstrap": "~0.13.0",
+    "toastr": "~2.1.0",
+    "angular-ui-tree": "~2.9.0",
+    "angular-loading-bar": "~0.8.0",
+    "ng-tags-input": "~3.0.0",
+    "angular-ui-calendar": "~1.0.0",
+    "lodash": "~3.10.1",
+    "moment": "~2.10.6",
+    "ngLocale": "*",
+    "alertify.js": "alertifyjs#~1.0.5",
+    "angular-bootstrap-datetimepicker-directive": "~0.1.3",
+    "bootstrap": "~3.3.6"
+  }
+}
